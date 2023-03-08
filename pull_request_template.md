@@ -1,16 +1,18 @@
+<!-- Before submiting, please replace/delete all comment block such as this one -->
+
 ## Description
 
-**Related issue(s)**: Closes #<issue_number_goes_here>
+**Related issue(s)**: Closes <!-- org/repo goes here -->#<!-- issue number goes here -->
 
-**Proposed change(s)**: <details_about_your_change_goes_here>
+**Proposed change(s)**: <!-- details about your change goes here -->
 
-**Additional context**: <any_other_context_about_it_goes_here>
+**Additional context**: <!-- any_other_context_about_it_goes_here -->
 
 ## Types of changes
 _Put an `x` in the boxes that apply_
 
 - [ ] Documentation or cosmetic update (not impacting the code)
-- [ ] Bugfix (non-breaking change which fixes an issue)
+- [ ] Bug-fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 
