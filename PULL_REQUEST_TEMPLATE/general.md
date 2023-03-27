@@ -1,15 +1,13 @@
-<!-- The purpose of this template to help contributors to communicate effectively.
-Feel free to discard it if you'd rather not use it -->
+<!-- Templates can help to communicate effectively: feel free to discard partly or entirely -->
+<!-- 1. Link this request to an open issue. Choose between: -->
+Closes #
+Refers to #
+<!-- More info: https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue -->
 
-<!-- It is usually helpful to link this request to an open issue -->
-**Related issue(s)**:
-Closes <!-- org/repo goes here -->#<!-- issue number goes here -->
-
-**Description**:
-<!-- Describe the change you're proposing here -->
+<!-- 2. Describe the proposed change here -->
 
 **Types of changes**:
-<!-- This can help to assess the impact of the change.
+<!-- 3. Assess the impact of the change.
 Put an `x` in the boxes that apply, or leave that for later -->
 
 - [ ] Documentation or cosmetic update (not impacting the code)
@@ -18,7 +16,7 @@ Put an `x` in the boxes that apply, or leave that for later -->
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 
 **Checklist**:
-<!-- This is simply a reminder of what a reviewer may have a look at.
+<!-- 4. Simple reminder of what a reviewer may have a look at.
 Put an `x` in the boxes that apply, or leave that for later -->
 
 <!-- Usually relevant -->
